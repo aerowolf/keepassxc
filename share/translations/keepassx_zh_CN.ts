@@ -73,7 +73,7 @@
     </message>
     <message>
         <source>Access error for config file %1</source>
-        <translation>访问配置文件出错 %1</translation>
+        <translation>访问配置文件 %1 出错</translation>
     </message>
     <message>
         <source>Icon only</source>
@@ -128,7 +128,7 @@
     </message>
     <message>
         <source>Safely save database files (may be incompatible with Dropbox, etc)</source>
-        <translation>安全保存数据库文件（可能与Dropbox等不兼容）</translation>
+        <translation>安全保存数据库文件（可能与 Dropbox 等不兼容）</translation>
     </message>
     <message>
         <source>Backup database file before saving</source>
@@ -140,11 +140,11 @@
     </message>
     <message>
         <source>Automatically save on exit</source>
-        <translation>离开后自动保存</translation>
+        <translation>退出时自动保存</translation>
     </message>
     <message>
         <source>Don&apos;t mark database as modified for non-data changes (e.g., expanding groups)</source>
-        <translation>不要因非数据的更改而将数据库标记为已修改 （比如增加群组）</translation>
+        <translation>不要因非数据的更改（比如增加群组）而将数据库标记为已修改</translation>
     </message>
     <message>
         <source>Automatically reload the database when modified externally</source>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Use group icon on entry creation</source>
-        <translation>新增项目时使用群组图标</translation>
+        <translation>新增条目时使用群组图标</translation>
     </message>
     <message>
         <source>Hide the entry preview panel</source>
@@ -176,39 +176,39 @@
     </message>
     <message>
         <source>Show a system tray icon</source>
-        <translation>显示任务栏图标</translation>
+        <translation>显示系统托盘图标</translation>
     </message>
     <message>
         <source>Dark system tray icon</source>
-        <translation>暗色系统托盘图标</translation>
+        <translation>系统托盘图标变暗</translation>
     </message>
     <message>
         <source>Hide window to system tray when minimized</source>
-        <translation>将窗口最小化至任务栏</translation>
+        <translation>将窗口最小化至系统托盘</translation>
     </message>
     <message>
         <source>Auto-Type</source>
-        <translation>自动输入</translation>
+        <translation>自动填充</translation>
     </message>
     <message>
         <source>Use entry title to match windows for global Auto-Type</source>
-        <translation>使用条目标题匹配全局自动类型的窗口</translation>
+        <translation>使用条目标题匹配全局自动填充窗口</translation>
     </message>
     <message>
         <source>Use entry URL to match windows for global Auto-Type</source>
-        <translation>使用条目URL匹配全局自动类型的窗口</translation>
+        <translation>使用条目URL匹配全局自动填充窗口</translation>
     </message>
     <message>
         <source>Always ask before performing Auto-Type</source>
-        <translation>总在执行自动输入前询问</translation>
+        <translation>执行自动填充前总是询问</translation>
     </message>
     <message>
         <source>Global Auto-Type shortcut</source>
-        <translation>自动输入全局快捷键</translation>
+        <translation>自动填充全局快捷键</translation>
     </message>
     <message>
         <source>Auto-Type typing delay</source>
-        <translation>自动输入时延迟</translation>
+        <translation>自动填充输入延迟</translation>
     </message>
     <message>
         <source> ms</source>
@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>Auto-Type start delay</source>
-        <translation>启用输入时延迟</translation>
+        <translation>启用填充启动延迟</translation>
     </message>
     <message>
         <source>Movable toolbar</source>
@@ -225,11 +225,11 @@
     </message>
     <message>
         <source>Remember previously used databases</source>
-        <translation>记住以前使用的数据库</translation>
+        <translation>记住以前使用过的数据库</translation>
     </message>
     <message>
         <source>Load previously open databases on startup</source>
-        <translation>启动时加载以前打开的数据库</translation>
+        <translation>启动时加载以前打开过的数据库</translation>
     </message>
     <message>
         <source>Remember database key files and security dongles</source>
@@ -237,7 +237,7 @@
     </message>
     <message>
         <source>Check for updates at application startup once per week</source>
-        <translation>每周在应用程序启动时检查更新</translation>
+        <translation>每周一次，在应用程序启动时检查更新</translation>
     </message>
     <message>
         <source>Include beta releases when checking for updates</source>
@@ -253,7 +253,7 @@
     </message>
     <message>
         <source>(restart program to activate)</source>
-        <translation>（重新启动程序激活）</translation>
+        <translation>（重新启动程序后激活）</translation>
     </message>
     <message>
         <source>Minimize window after unlocking database</source>
@@ -273,7 +273,7 @@
     </message>
     <message>
         <source>Drop to background</source>
-        <translation>放到背景</translation>
+        <translation>转至后台</translation>
     </message>
     <message>
         <source>Favicon download timeout:</source>
@@ -281,7 +281,7 @@
     </message>
     <message>
         <source>Website icon download timeout in seconds</source>
-        <translation>网站图标下载超时</translation>
+        <translation>网站图标下载超时（以秒计）</translation>
     </message>
     <message>
         <source> sec</source>
@@ -294,7 +294,7 @@
     </message>
     <message>
         <source>Use monospaced font for Notes</source>
-        <translation>对记录使用等宽字体</translation>
+        <translation>在备注中使用等宽字体</translation>
     </message>
     <message>
         <source>Language selection</source>
@@ -306,15 +306,15 @@
     </message>
     <message>
         <source>Global auto-type shortcut</source>
-        <translation>全局自动键入快捷方式</translation>
+        <translation>全局自动填充快捷方式</translation>
     </message>
     <message>
         <source>Auto-type character typing delay milliseconds</source>
-        <translation>自动输入字符输入延迟毫秒</translation>
+        <translation>自动填充字符输入延迟毫秒</translation>
     </message>
     <message>
         <source>Auto-type start delay milliseconds</source>
-        <translation type="unfinished"/>
+        <translation>自动填充启动延迟毫秒</translation>
     </message>
 </context>
 <context>
@@ -325,24 +325,24 @@
     </message>
     <message>
         <source>Clear clipboard after</source>
-        <translation>在多久后清除剪贴板</translation>
+        <translation>清除剪贴板，在</translation>
     </message>
     <message>
         <source> sec</source>
         <comment>Seconds</comment>
-        <translation>秒</translation>
+        <translation>秒之后</translation>
     </message>
     <message>
         <source>Lock databases after inactivity of</source>
-        <translation>在多久没有动作之后锁住数据库</translation>
+        <translation>锁住数据库，在无操作</translation>
     </message>
     <message>
         <source> min</source>
-        <translation>分</translation>
+        <translation>分之后</translation>
     </message>
     <message>
         <source>Forget TouchID after inactivity of</source>
-        <translation>没有动作后锁定TouchID</translation>
+        <translation>忘记TouchID，在无操作</translation>
     </message>
     <message>
         <source>Convenience</source>
@@ -350,27 +350,27 @@
     </message>
     <message>
         <source>Lock databases when session is locked or lid is closed</source>
-        <translation>系统锁定或盖子合上时锁定数据库</translation>
+        <translation>会话锁定或电脑合上时锁定数据库</translation>
     </message>
     <message>
         <source>Forget TouchID when session is locked or lid is closed</source>
-        <translation>系统锁定或盖子关闭时锁定TouchID</translation>
+        <translation>会话锁定或电脑合上时忘记TouchID</translation>
     </message>
     <message>
         <source>Lock databases after minimizing the window</source>
-        <translation>在最小化窗口后锁定数据库</translation>
+        <translation>窗口最小化后锁定数据库</translation>
     </message>
     <message>
         <source>Re-lock previously locked database after performing Auto-Type</source>
-        <translation>执行自动类型后重新锁定先前锁定的数据库</translation>
+        <translation>执行自动填充后，重新锁定先前锁定的数据库</translation>
     </message>
     <message>
         <source>Don&apos;t require password repeat when it is visible</source>
-        <translation>可见时不需要重复输入密码</translation>
+        <translation>可见时不重复输入密码</translation>
     </message>
     <message>
         <source>Don&apos;t hide passwords when editing them</source>
-        <translation>编辑时不要隐藏密码</translation>
+        <translation>编辑时不隐藏密码</translation>
     </message>
     <message>
         <source>Don&apos;t use placeholder for empty password fields</source>
@@ -378,7 +378,7 @@
     </message>
     <message>
         <source>Hide passwords in the entry preview panel</source>
-        <translation>在预览面板条目中隐藏密码</translation>
+        <translation>在条目预览面板中隐藏密码</translation>
     </message>
     <message>
         <source>Hide entry notes by default</source>
@@ -390,19 +390,19 @@
     </message>
     <message>
         <source>Use DuckDuckGo service to download website icons</source>
-        <translation type="unfinished"/>
+        <translation>使用DuckDuckGo服务来下载网站图标</translation>
     </message>
     <message>
         <source>Clipboard clear seconds</source>
-        <translation type="unfinished"/>
+        <translation>剪切板清除秒数</translation>
     </message>
     <message>
         <source>Touch ID inactivity reset</source>
-        <translation type="unfinished"/>
+        <translation>Touch ID无操作重置</translation>
     </message>
     <message>
         <source>Database lock timeout seconds</source>
-        <translation type="unfinished"/>
+        <translation>数据库锁定超时秒数</translation>
     </message>
     <message>
         <source> min</source>
@@ -411,38 +411,38 @@
     </message>
     <message>
         <source>Clear search query after</source>
-        <translation type="unfinished"/>
+        <translation>清除搜索查询，在此后</translation>
     </message>
 </context>
 <context>
     <name>AutoType</name>
     <message>
         <source>Couldn&apos;t find an entry that matches the window title:</source>
-        <translation>无法找到符合窗口标题的项目：</translation>
+        <translation>无法找到符合窗口标题的条目：</translation>
     </message>
     <message>
         <source>Auto-Type - KeePassXC</source>
-        <translation>KeePassXC - 自动输入</translation>
+        <translation>KeePassXC - 自动填充</translation>
     </message>
     <message>
         <source>Auto-Type</source>
-        <translation>自动输入</translation>
+        <translation>自动填充</translation>
     </message>
     <message>
         <source>The Syntax of your Auto-Type statement is incorrect!</source>
-        <translation>自动输入的语法不正确!</translation>
+        <translation>自动填充语法不正确!</translation>
     </message>
     <message>
         <source>This Auto-Type command contains a very long delay. Do you really want to proceed?</source>
-        <translation>此自动输入命令包含很长的延迟。你真的要继续吗？</translation>
+        <translation>此自动填充命令包含很长延迟。确定要继续吗？</translation>
     </message>
     <message>
         <source>This Auto-Type command contains very slow key presses. Do you really want to proceed?</source>
-        <translation>此自动输入命令包含非常慢的按键操作。你真的要继续吗？</translation>
+        <translation>此自动填充命令包含非常慢的按键操作。确定要继续吗？</translation>
     </message>
     <message>
         <source>This Auto-Type command contains arguments which are repeated very often. Do you really want to proceed?</source>
-        <translation>此自动输入命令包含频繁重复的参数。你真的要继续吗？</translation>
+        <translation>此自动填充命令包含频繁重复的参数。确定要继续吗？</translation>
     </message>
 </context>
 <context>
@@ -487,22 +487,22 @@
     </message>
     <message>
         <source>Copy &amp;password</source>
-        <translation>复制 &amp;密码</translation>
+        <translation>复制密码(&amp;P)</translation>
     </message>
 </context>
 <context>
     <name>AutoTypeSelectDialog</name>
     <message>
         <source>Auto-Type - KeePassXC</source>
-        <translation>KeePassXC - 自动输入</translation>
+        <translation>KeePassXC - 自动填充</translation>
     </message>
     <message>
         <source>Select entry to Auto-Type:</source>
-        <translation>选择自动输入的项目：</translation>
+        <translation>选择自动填充的项目：</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation>搜索……</translation>
+        <translation>搜索…</translation>
     </message>
 </context>
 <context>
@@ -555,7 +555,7 @@ Please select whether you want to allow access.</source>
     <message>
         <source>You have multiple databases open.
 Please select the correct database for saving credentials.</source>
-        <translation>您打开了多个数据库
+        <translation>您打开了多个数据库。
 请选择正确的数据库以保存凭据。</translation>
     </message>
 </context>
@@ -596,37 +596,37 @@ Please select the correct database for saving credentials.</source>
     <message>
         <source>Show a &amp;notification when credentials are requested</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation>当请求凭据时显示通知(&amp;N)</translation>
+        <translation>请求凭据时显示通知(&amp;N)</translation>
     </message>
     <message>
         <source>Re&amp;quest to unlock the database if it is locked</source>
-        <translation>数据库锁定时请求解锁(&amp;nQ)</translation>
+        <translation>数据库锁定时请求解锁(&amp;Q)</translation>
     </message>
     <message>
         <source>Only entries with the same scheme (http://, https://, ...) are returned.</source>
-        <translation>只返回具有相同形式的条目。 ( http://, https://,... )。</translation>
+        <translation>只返回具有相同形式的条目(http://, https://,…)。</translation>
     </message>
     <message>
         <source>&amp;Match URL scheme (e.g., https://...)</source>
-        <translation>匹配 URL 形式 （例如：https://……）（&amp;M）</translation>
+        <translation>匹配 URL 形式（例如：https://…）（&amp;M）</translation>
     </message>
     <message>
         <source>Only returns the best matches for a specific URL instead of all entries for the whole domain.</source>
-        <translation>只返回特定网址的最佳匹配，而不是整个域名的所有条目。</translation>
+        <translation>只返回该网址的最佳匹配，而不是整个域名的所有条目。</translation>
     </message>
     <message>
         <source>&amp;Return only best-matching credentials</source>
-        <translation>&amp;只返回最匹配的凭据</translation>
+        <translation>只返回最匹配的凭据(&amp;R)</translation>
     </message>
     <message>
         <source>Sort &amp;matching credentials by title</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation>根据名称排列匹配的凭据(&amp;M)</translation>
+        <translation>按名称排列匹配的凭据(&amp;M)</translation>
     </message>
     <message>
         <source>Sort matching credentials by &amp;username</source>
         <extracomment>Credentials mean login data requested via browser extension</extracomment>
-        <translation>根据用户名排列匹配的凭据(&amp;U)</translation>
+        <translation>按用户名排列匹配的凭据(&amp;U)</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -657,15 +657,15 @@ Please select the correct database for saving credentials.</source>
     </message>
     <message>
         <source>Updates KeePassXC or keepassxc-proxy binary path automatically to native messaging scripts on startup.</source>
-        <translation>启动时自动将 KeePassXC 或 keepassxc-proxy 执行文件路径更新为 native messaging 脚本。</translation>
+        <translation>启动时自动将 KeePassXC 或 keepassxc-proxy 二进制路径更新为本地消息脚本。</translation>
     </message>
     <message>
         <source>Update &amp;native messaging manifest files at startup</source>
-        <translation>启动时更新和本机消息传递清单文件(&amp;N)</translation>
+        <translation>启动时更新本地消息清单文件(&amp;N)</translation>
     </message>
     <message>
         <source>Support a proxy application between KeePassXC and browser extension.</source>
-        <translation>支持KeePassXC和浏览器扩展之间的代理应用程序.</translation>
+        <translation>支持KeePassXC和浏览器扩展之间的代理程序。</translation>
     </message>
     <message>
         <source>Use a &amp;proxy application between KeePassXC and browser extension</source>
@@ -673,7 +673,7 @@ Please select the correct database for saving credentials.</source>
     </message>
     <message>
         <source>Use a custom proxy location if you installed a proxy manually.</source>
-        <translation>如果手工安装了代理，请设置自定义代理的路径。</translation>
+        <translation>如果手动安装了代理，请设置自定义的代理路径。</translation>
     </message>
     <message>
         <source>Use a &amp;custom proxy location</source>
@@ -683,11 +683,11 @@ Please select the correct database for saving credentials.</source>
     <message>
         <source>Browse...</source>
         <extracomment>Button for opening file dialog</extracomment>
-        <translation>浏览...</translation>
+        <translation>浏览…</translation>
     </message>
     <message>
         <source>&lt;b&gt;Warning:&lt;/b&gt; The following options can be dangerous!</source>
-        <translation>&lt;b&gt;警告：&lt;/b&gt; 以下选项可能有危险！</translation>
+        <translation>&lt;b&gt;警告：&lt;/b&gt; 以下选项会导致危险！</translation>
     </message>
     <message>
         <source>Select custom proxy location</source>
@@ -708,19 +708,19 @@ Please select the correct database for saving credentials.</source>
     <message>
         <source>Do not ask permission for HTTP &amp;Basic Auth</source>
         <extracomment>An extra HTTP Basic Auth setting</extracomment>
-        <translation>不要请求 http 和基本身份验证的许可(&amp;B)</translation>
+        <translation>不请求对http基本验证的权限(&amp;B)</translation>
     </message>
     <message>
         <source>Due to Snap sandboxing, you must run a script to enable browser integration.&lt;br /&gt;You can obtain this script from %1</source>
-        <translation>由于快照沙盒，必须运行脚本才能启用浏览器集成。&lt;br /&gt;您可以从 %1 获取此脚本</translation>
+        <translation>由于Snap沙盒，必须运行脚本才能启用浏览器集成。&lt;br /&gt;您可以从 %1 获取此脚本</translation>
     </message>
     <message>
         <source>Please see special instructions for browser extension use below</source>
-        <translation>请参阅下面的浏览器扩展使用的特殊说明</translation>
+        <translation>请参阅下面有关浏览器扩展使用的特别说明</translation>
     </message>
     <message>
         <source>KeePassXC-Browser is needed for the browser integration to work. &lt;br /&gt;Download it for %1 and %2. %3</source>
-        <translation>浏览器集成需要KeePassXC-Browser才能工作。&lt;br /&gt;下载%1 和 %2. %3</translation>
+        <translation>浏览器集成需要KeePassXC-Browser才能工作。&lt;br /&gt;下载：%1 和 %2。 %3</translation>
     </message>
     <message>
         <source>&amp;Brave</source>
@@ -728,19 +728,19 @@ Please select the correct database for saving credentials.</source>
     </message>
     <message>
         <source>Returns expired credentials. String [expired] is added to the title.</source>
-        <translation type="unfinished"/>
+        <translation>返回过期的凭据。将字符串[过期]添加到标题中。</translation>
     </message>
     <message>
         <source>&amp;Allow returning expired credentials.</source>
-        <translation type="unfinished"/>
+        <translation>允许返回过期的凭据（&amp;A）</translation>
     </message>
     <message>
         <source>Enable browser integration</source>
-        <translation type="unfinished"/>
+        <translation>启用浏览器集成</translation>
     </message>
     <message>
         <source>Browsers installed as snaps are currently not supported.</source>
-        <translation type="unfinished"/>
+        <translation>目前尚不支持以snap方式安装的浏览器。</translation>
     </message>
     <message>
         <source>All databases connected to the extension will return matching credentials.</source>
