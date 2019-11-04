@@ -11,11 +11,11 @@
     </message>
     <message>
         <source>Report bugs at: &lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/issues&quot; style=&quot;text-decoration: underline;&quot;&gt;https://github.com&lt;/a&gt;</source>
-        <translation>前往报告 bug：&lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/issues&quot; style=&quot;text-decoration: underline;&quot;&gt;https://github.com&lt;/a&gt;</translation>
+        <translation>报告 bug：&lt;a href=&quot;https://github.com/keepassxreboot/keepassxc/issues&quot; style=&quot;text-decoration: underline;&quot;&gt;https://github.com&lt;/a&gt;</translation>
     </message>
     <message>
         <source>KeePassXC is distributed under the terms of the GNU General Public License (GPL) version 2 or (at your option) version 3.</source>
-        <translation>KeePassXC 使用第 2 版 GNU 通用公共授权协议（GPL）分发，（你也可以根据需要）选用第 3 版。</translation>
+        <translation>KeePassXC 在 GNU 通用公共授权协议（GPL）第 2 版或第 3 版下分发（你可按需选择）。</translation>
     </message>
     <message>
         <source>Contributors</source>
@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Icon only</source>
-        <translation>仅限图标</translation>
+        <translation>仅图标</translation>
     </message>
     <message>
         <source>Text only</source>
@@ -85,11 +85,11 @@
     </message>
     <message>
         <source>Text beside icon</source>
-        <translation>图标旁边的文字</translation>
+        <translation>文字在图标旁</translation>
     </message>
     <message>
         <source>Text under icon</source>
-        <translation>图标下的文本</translation>
+        <translation>文字在图标下</translation>
     </message>
     <message>
         <source>Follow style</source>
@@ -97,7 +97,7 @@
     </message>
     <message>
         <source>Reset Settings?</source>
-        <translation>重新设置？</translation>
+        <translation>重置设置吗？</translation>
     </message>
     <message>
         <source>Are you sure you want to reset all general and security settings to default?</source>
@@ -152,7 +152,7 @@
     </message>
     <message>
         <source>Entry Management</source>
-        <translation>进入管理</translation>
+        <translation>条目管理</translation>
     </message>
     <message>
         <source>Use group icon on entry creation</source>
