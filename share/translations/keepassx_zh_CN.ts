@@ -744,7 +744,7 @@ Please select the correct database for saving credentials.</source>
     </message>
     <message>
         <source>All databases connected to the extension will return matching credentials.</source>
-        <translation type="unfinished"/>
+        <translation>所有连接到此扩展的数据库都将返回匹配的凭据。</translation>
     </message>
     <message>
         <source>Don&apos;t display the popup suggesting migration of legacy KeePassHTTP settings.</source>
